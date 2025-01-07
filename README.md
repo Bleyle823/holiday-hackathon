@@ -54,10 +54,10 @@ Any application deployed to [Lens Network Testnet](https://dev-preview.lens.xyz/
 [Here](https://jarv.is/notes/how-to-pull-request-fork-github/) is a tutorial with steps to Fork and Submit a PR.
 
 2. **PR Format:**
-   - **Project Name:**
-   - **Team Members:** (Name and Lens Handle)
-   - **Project Description:**
-   - **Source Code Link:**
+   - **Project Name:*GHO-PRO*
+   - **Team Members:** (Bleyle / @Bleyle)
+   - **Project Description:*RWA Lending platform*
+   - **Source Code Link:*https://github.com/Sugar-hill/GHOPRO/tree/main*
    - **Preview Link (Optional):**
    - **Demo Video/Slide Deck Link (Optional):**
    - **Screenshots (Optional):**
